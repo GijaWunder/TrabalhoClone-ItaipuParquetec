@@ -47,13 +47,12 @@ header  {
 }
 
 header .menu {
-
     background-color: #fff;
     width: 96%;
     height: 85px;
-    padding: 20px 50px;
+    padding: 15px 8px 0 15px;
     border-radius: 10px;
-
+    font-size: 13px;
     display: flex;
 }
 
